@@ -5,15 +5,20 @@
 <p>Optei por deixar o botão que troca o título e a imagem de background atrás do logo da página e troquei o <i>'click'</i> por <i>'mouseover'</i> no <i>addEventListener</i> do botão.</p>
 <p>Na versão <i>mobile</i>, ainda é necessário que o usuário clique sobre a imagem para que o background e o título sejam alterados. Para retornar ao original, o usuário deve clicar em qualquer local da tela fora da imagem.</p>
 <hr>
-  <footer style="display: flex; align-items: center; justify-content:center; gap:1rem">
+<ul>
+  <li>Background image: <a href="https://www.deviantart.com/thehive1948/art/Targaryen-vs-Blackfyre-Wallpaper-ASOIAF-894040724">Deviant Art</a></li>
+</ul>
+<hr>
+<footer style="display: flex; align-items: center; justify-content:center; gap:1rem">
+  <div style="display: flex; align-items: center; justify-content:center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  </footer>
-  <hr>
-  <div style="display: flex; align-items: center; justify-content:center">
-    <a href="https://www.linkedin.com/in/bshiromoto/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
   </div>
-
+</footer>
+<hr>
+<div style="display: flex; align-items: center; justify-content:center">
+  <a href="https://www.linkedin.com/in/bshiromoto/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
