@@ -24,7 +24,7 @@ body {
 }
 
 h1 {
-  font: 400 3.5rem var(--fonte);
+  font: 400 2.75rem var(--fonte);
   margin: 2rem 0;
 }
 
@@ -33,10 +33,10 @@ section {
 }
 
 .container {
-  background-image: url("img/targaryen.png");  
+  background-image: url("../img/targaryen.png");  
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 400px;
+  background-size: 350px;
   flex-direction: column;
   height: 100vh;
   display: flex;
@@ -59,6 +59,6 @@ section {
 
 .blackfyre {
   background-color: var(--red);
-  background-image: url("img/blackfyre.png");
+  background-image: url("../img/blackfyre.png");
   color: var(--black);
 }
